@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&pause=750&color=BB15D7&background=FFFFFF00&center=true&multiline=true&width=435&height=100&lines=Hi;I'm+Aleksander+Pietrzak;Web+developer+and+Three.js+lover)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=40&duration=1&color=30D439&background=FFFFFF00&center=true&multiline=true&repeat=false&width=1000&lines=Aleksander+Pietrzak)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30D439&center=true&width=1000&lines=Web+Developer;UX%2FUI+Designer;Blender+Enjoyer;Three.js+lover)](https://git.io/typing-svg)
 <!--
 **JestemAl/JestemAl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
