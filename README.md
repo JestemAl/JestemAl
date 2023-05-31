@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&pause=750&color=BB15D7&background=FFFFFF00&center=true&multiline=true&width=435&height=100&lines=Hi;I'm+Aleksander+Pietrzak;Web+developer+and+Three.js+lover)](https://git.io/typing-svg)
 
 <!--
 **JestemAl/JestemAl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
